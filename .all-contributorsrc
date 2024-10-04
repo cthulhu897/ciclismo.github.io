@@ -1,0 +1,34 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "cthulhu897",
+      "name": "Francisco D�az",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11900241?v=4",
+      "profile": "http://diax.github.io",
+      "contributions": [
+        "code",
+        "ideas",
+        "test",
+        "maintenance",
+        "doc",
+        "design",
+        "review",
+        "content",
+        "a11y"
+      ]
+    }
+  ],
+  "contributorsPerLine": 1,
+  "projectName": "diax.github.io",
+  "projectOwner": "cthulhu897",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "commitType": "docs",
+  "commitConvention": "angular"
+}
